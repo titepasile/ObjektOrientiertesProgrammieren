@@ -1,0 +1,47 @@
+C:\Users\Elisa\source\repos\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.exe
+C:\Users\Elisa\source\repos\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.deps.json
+C:\Users\Elisa\source\repos\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.runtimeconfig.json
+C:\Users\Elisa\source\repos\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.dll
+C:\Users\Elisa\source\repos\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.pdb
+C:\Users\Elisa\source\repos\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.csproj.AssemblyReference.cache
+C:\Users\Elisa\source\repos\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elisa\source\repos\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.AssemblyInfoInputs.cache
+C:\Users\Elisa\source\repos\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.AssemblyInfo.cs
+C:\Users\Elisa\source\repos\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\source\repos\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.dll
+C:\Users\Elisa\source\repos\LeftCenterRight\obj\Debug\net6.0\refint\LeftCenterRight.dll
+C:\Users\Elisa\source\repos\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.pdb
+C:\Users\Elisa\source\repos\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.genruntimeconfig.cache
+C:\Users\Elisa\source\repos\LeftCenterRight\obj\Debug\net6.0\ref\LeftCenterRight.dll
+D:\Development\VS Projects\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.exe
+D:\Development\VS Projects\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.deps.json
+D:\Development\VS Projects\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.runtimeconfig.json
+D:\Development\VS Projects\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.dll
+D:\Development\VS Projects\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.pdb
+D:\Development\VS Projects\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.csproj.AssemblyReference.cache
+D:\Development\VS Projects\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\VS Projects\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.AssemblyInfoInputs.cache
+D:\Development\VS Projects\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.AssemblyInfo.cs
+D:\Development\VS Projects\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.csproj.CoreCompileInputs.cache
+D:\Development\VS Projects\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.dll
+D:\Development\VS Projects\LeftCenterRight\obj\Debug\net6.0\refint\LeftCenterRight.dll
+D:\Development\VS Projects\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.pdb
+D:\Development\VS Projects\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.genruntimeconfig.cache
+D:\Development\VS Projects\LeftCenterRight\obj\Debug\net6.0\ref\LeftCenterRight.dll
+C:\Users\Elisa\Documents\Schulprojekte\BBB\2_Zweites_Jahr\Bei Herr Meyer\M320\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.dll
+C:\Users\Elisa\Documents\Schulprojekte\BBB\2_Zweites_Jahr\Bei Herr Meyer\M320\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\refint\LeftCenterRight.dll
+C:\Users\Elisa\Documents\Schulprojekte\BBB\2_Zweites_Jahr\Bei Herr Meyer\M320\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.pdb
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.exe
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.deps.json
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.runtimeconfig.json
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.dll
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\bin\Debug\net6.0\LeftCenterRight.pdb
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.AssemblyInfoInputs.cache
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.AssemblyInfo.cs
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.csproj.CoreCompileInputs.cache
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.dll
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\refint\LeftCenterRight.dll
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.pdb
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\LeftCenterRight.genruntimeconfig.cache
+C:\Users\school account\Downloads\LeftCenterRight-main\LeftCenterRight-main\LeftCenterRight\LeftCenterRight\obj\Debug\net6.0\ref\LeftCenterRight.dll
