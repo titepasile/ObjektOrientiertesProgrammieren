@@ -1,0 +1,4 @@
+C:\Users\school account\OneDrive\Desktop\Projekt\obj\Debug\net8.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school account\OneDrive\Desktop\Projekt\obj\Debug\net8.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\school account\OneDrive\Desktop\Projekt\obj\Debug\net8.0\Projekt.AssemblyInfo.cs
+C:\Users\school account\OneDrive\Desktop\Projekt\obj\Debug\net8.0\Projekt.csproj.CoreCompileInputs.cache
